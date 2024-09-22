@@ -13,6 +13,7 @@ Rest_Assured_Reqres
 Install Java and Maven
 Ensure that you have the following installed on your machine:
 Java: JDK 8 or higher
+..xml
 Maven: For dependency management
 <dependency>
     <groupId>io.rest-assured</groupId>
